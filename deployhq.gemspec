@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'deployhq'
-  s.version = "1.0.0"
+  s.version = "1.1.0"
   s.platform = Gem::Platform::RUBY
   s.summary = "API client for the DeployHQ deployment platform"
   
